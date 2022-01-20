@@ -3,7 +3,7 @@ This is my GitHub profile, here you can find some of my projects! you can see th
 I am a Full-Stack Developer. I also have a MS in Chemical and Sustainable Processes Engineer and some knowledge of DataScience and Machine Learning Foundations. I am passionate about cutting edge technology as well as constant challenges and continuous improvement. I have a strong background in math, logic, and analytical thinking which synergistically complement my developer skills as well as my flexibility to change, excellent creativity and teamwork skills with strong verbal and written communication skills. I am currently working as a backend developer using Golang.
 <br/>
 <h2>My developer Stack</h2>
-Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Express JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Redux JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Posgres&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Sequelize&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;NPM&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Material UI&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Docker
+Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Express JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Redux JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Posgres&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Sequelize&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;NPM&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Material UI&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Docker|&nbsp;&nbsp;&nbsp;Golang
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="55" width="55" ></a>
 <a href="https://es.reactjs.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55" ></a>
@@ -18,6 +18,7 @@ Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node JS&nbsp;&nbsp;&nbsp;|&nbsp;&
 <a href="https://material-ui.com/"><img src="https://material-ui.com/static/logo_raw.svg"  height="55" width="55" ></a>
 <a href="https://www.python.org.ar/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"  height="55" width="55" ></a>
 <a href="https://www.docker.com/"><img src="https://ccie.tv/content/images/2019/08/docker-11.svg"  height="55" width="55" ></a>
+<a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"  height="55" width="55" ></a>
 <br/>
 <h2>Currently Learning</h2>
 React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Typescript&nbsp;&nbsp;&nbsp;<br/>
