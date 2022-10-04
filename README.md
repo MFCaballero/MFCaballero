@@ -21,12 +21,10 @@ Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node JS&nbsp;&nbsp;&nbsp;|&nbsp;&
 <a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"  height="55" width="55" ></a>
 <br/>
 <h2>Currently Learning</h2>
-React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Typescript&nbsp;&nbsp;&nbsp;<br/>
-<a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55" ></a>
-<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"  height="55" width="55" ></a>
+<img src="https://www.maquinasvirtuales.eu/ipsoapoo/2020/01/crear-containers-docker-sobre-kubernetes-1.png"  height="100" width="200" >
 <h2>📫 How to reach me</h2>
 <br/>
-<a href="https://www.linkedin.com/in/maria-florencia-caballero/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45" >
+<a href="https://www.linkedin.com/in/maria-florencia-caballero/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="45" width="45" >
 <a href="mailto:florcha12.caballero@gmail.com"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45" ></a>
 
 
